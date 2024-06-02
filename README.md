@@ -44,22 +44,22 @@ You need a modern web browser to view the portfolio. No additional software is r
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-portfolio-repo.git
+    git clone https://github.com/Poojasrisunkara/CODSOFT.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-portfolio-repo
+    cd CODSOFT
     ```
 
-3. **Open the `index.html` file in your web browser:**
+3. **Open the `portfolio.html` file in your web browser:**
 
-    You can simply double-click the `index.html` file or open it with a web browser of your choice.
+    You can simply double-click the `portfolio.html` file or open it with a web browser of your choice.
 
 ## Usage
 
-Once you open the `index.html` file, you can navigate through the different sections of the portfolio:
+Once you open the `portfolio.html` file, you can navigate through the different sections of the portfolio:
 
 - **Home**: An introduction to who I am.
 - **About**: Details about my background, skills, and experience.
