@@ -5,7 +5,6 @@ Welcome to my personal portfolio project! This project was created as the first 
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -21,8 +20,6 @@ This personal portfolio website is designed to provide a comprehensive view of m
 - **Static Website**: The portfolio consists of static HTML and CSS files.
 - **Simple Navigation**: Easy-to-follow layout with sections for About, Projects, and Contact.
 - **Professional Design**: Clean and modern look to highlight my professional profile.
-
-## Demo
 
 ## Technologies Used
 
