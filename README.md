@@ -1,17 +1,15 @@
 # CODSOFT 
-(Task1)
-# Personal Portfolio
 Welcome to my personal portfolio project! This project was created as the first task of my internship at CodSoft. The portfolio showcases my skills, projects, and contact information using HTML and CSS.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -20,10 +18,11 @@ This personal portfolio website is designed to provide a comprehensive view of m
 
 ## Features
 
-- **Responsive Design**: The website is fully responsive and looks great on all devices.
-- **Interactive Elements**: Includes interactive elements such as a navigation menu, project previews, and contact form.
-- **Clean and Modern Layout**: Aesthetic and user-friendly design.
-- **Easy to Navigate**: Simple navigation to quickly find information.
+- **Static Website**: The portfolio consists of static HTML and CSS files.
+- **Simple Navigation**: Easy-to-follow layout with sections for About, Projects, and Contact.
+- **Professional Design**: Clean and modern look to highlight my professional profile.
+
+## Demo
 
 ## Technologies Used
 
@@ -74,10 +73,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-
-This project is open-source and available under the MIT License. See the `LICENSE` file for more information.
 
 ## Contact
 
