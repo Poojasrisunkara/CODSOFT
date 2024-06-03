@@ -16,7 +16,7 @@ Welcome to my landing page project! This project was created as part of my inter
 
 This landing page is designed to provide a comprehensive view of a product or service. It includes various sections such as a header, main content area, and footer, all styled to create a visually appealing and professional presentation.
 
-![Landing Page](https://github.com/Poojasrisunkara/CODSOFT/assets/165466759/8051839c-2b12-42a3-bf92-1febc8f95996)
+![Landing Page](https://github.com/Poojasrisunkara/CODSOFT/assets/165466759/b1a333a7-00e0-46a0-87fe-ec1110ca761b)
 
 ## Features
 
