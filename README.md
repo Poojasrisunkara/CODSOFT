@@ -44,13 +44,13 @@ You need a modern web browser to view the portfolio. No additional software is r
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Poojasrisunkara/CODSOFT.git
+    git clone https://github.com/Poojasrisunkara/CODSOFT_01.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd CODSOFT
+    cd CODSOFT_01
     ```
 
 3. **Open the `portfolio.html` file in your web browser:**
